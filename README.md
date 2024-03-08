@@ -1,3 +1,8 @@
 # Bellabeat Case Study
-**Overview:**
-This repository presents a comprehensive data analysis case study for Bellabeat, a prominent health tech manufacturer catering to women. The primary objective is to unveil insights into consumer smart device usage, providing a foundation for future marketing strategies. The analysis adheres to a structured process comprising key steps: Ask, Prepare, Process, Analyze, Share, and Act.
+## Overview
+This project aims to analyze Fitbit fitness tracker data to extract insights into user behavior and usage patterns. The goal is to provide actionable recommendations to Bellabeat, a wellness-focused tech company, to inform their marketing strategy targeting female consumers.
+## Analysis 
+- Utilized Python's Matplotlib for statistical analysis and visualization.
+- Investigated trends in user activity, sleep duration, calorie expenditure, and device usage across different days of the week.
+## Conclusion 
+This project offers valuable insights into Fitbit usage patterns, which can aid Bellabeat in tailoring their marketing efforts to better resonate with their target audience. However, it also highlights the necessity for additional data and deeper analysis to gain a comprehensive understanding of user behavior and preferences.
